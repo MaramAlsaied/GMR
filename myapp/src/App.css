@@ -1,0 +1,121 @@
+body{
+  margin: 0px;
+  padding: 0px;
+
+}
+.maindiv{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  justify-items: center;
+}
+.Greenpart{
+  background-color: #136D4D ;
+  opacity: 1;
+  color: white;
+  display: flex;
+  text-align: left;
+  flex-direction: column;
+  justify-content: center;
+
+}
+.quote{
+  margin: 30px;
+  width: 414;
+  height: 231;
+  
+  
+font-weight: 700;
+font-style: Bold;
+font-size: 64px;
+
+line-height: 100%;
+letter-spacing: 0%;
+
+}
+.formdiv{
+  display: flex;
+  flex-direction: column;
+  justify-items: center;
+  align-items: center;
+  text-align: left;
+}
+.formdiv h1{
+  text-align: left;
+  font-size: 40px;
+}
+.formspecs{
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  justify-content: center;
+  align-items: center;
+  margin: 50px;
+  font-size: 12px;
+}
+
+.formspecs input{
+  width: 400px;
+height: 69px;
+      
+  padding: 0 10px;    
+  font-size: 16px;    
+  box-sizing: border-box; 
+
+
+border-color: #136D4D ;
+opacity: 1;
+
+}
+.formspecs label{
+ font-size: 20px;
+ margin: 20px;
+}
+.parspecs{
+  color: #425583;
+  
+font-weight: 400;
+
+font-size: 14px;
+
+line-height: 100%;
+letter-spacing: 0%;
+width: 400;
+height: 17;
+
+opacity: 1;
+
+}
+.submitspecs{
+  width: 400;
+height: 69;
+background-color: #136D4D ;
+opacity: 1;
+}
+.ordiv div{
+  background-color: #D3E0FE;
+  width: 183;
+height: 0px;
+display: flex;
+flex-direction: row;
+opacity: 1;
+border-width: 1px;
+justify-content: center;
+align-items: center;
+align-content: center;
+justify-items: center;
+}
+.googlespecs{
+  width: 400px;
+height: 69px;
+      
+  padding: 0 10px;    
+  font-size: 16px;    
+  box-sizing: border-box; 
+
+
+border-color: #136D4D ;
+opacity: 1;
+}
